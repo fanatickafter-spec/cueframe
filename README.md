@@ -5,10 +5,12 @@
 ## Workflows
 
 **Media Check** opens on startup. Select a folder, server profile and FPS preset, then click **Check**. Format and frame rate are evaluated separately. The **Problems only** filter shows the files that need attention.
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/e24b0608-334f-438e-87d3-f89e231a3814" />
 
 **Smart Copy** matches names within the corresponding destination subfolder and picks the next version. **Rename** applies a naming rule to a batch.
 
 **IN / LOOP** trims videos by frame number, preserves the folder structure and assigns one version to both outputs. Each output is checked before the pair is saved.
+<img width="1188" height="643" alt="image" src="https://github.com/user-attachments/assets/5dcbce28-9625-4b8a-9fcb-0222c4e7791c" />
 
 ## Installation
 
